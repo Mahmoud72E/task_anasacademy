@@ -1,4 +1,4 @@
-# Mini-CRM Task
+# Mini-CRM Task (AnasAcademy)
 
 This project is a mini-CRM (Customer Relationship Management) system developed using PHP and Laravel. It allows you to manage companies and their employees through a user-friendly admin panel.
 
